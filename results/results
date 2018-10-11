@@ -1,0 +1,1235 @@
+#
+# Results on Tuesday October 09 2018 16:06:01 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Apprehension time.
+1539101162,50331d7ab0789776835e54f98e349850,Message,12,0,q4,NULL,3526
+1539101162,50331d7ab0789776835e54f98e349850,Message,13,0,q2,NULL,1448
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539101162,50331d7ab0789776835e54f98e349850,Question,14,0,q1,NULL,Did you see a bunny?,Yes,1,2381
+1539101162,50331d7ab0789776835e54f98e349850,Message,15,0,q2,NULL,2922
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539101162,50331d7ab0789776835e54f98e349850,Message,16,0,q2,NULL,14250
+1539101162,50331d7ab0789776835e54f98e349850,Question,17,0,q1,NULL,Did you see anything?,Yes,1,2225
+1539101162,50331d7ab0789776835e54f98e349850,Message,18,0,q2,NULL,1827
+1539101162,50331d7ab0789776835e54f98e349850,Question,19,0,q1,NULL,Did you see anything?,No,0,2092
+#
+# Results on Wednesday October 10 2018 02:54:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 1
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,PictureAccept_AY,6,0,z,NULL,The sentence you want to show,3,NULL,4493
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Form,7,1,q3,NULL,winningPlayer,
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Form,7,1,q3,NULL,_REACTION_TIME_,1410
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Message,8,0,q4,NULL,4567
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q4,NULL,brushAnswer,the horse
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q4,NULL,_REACTION_TIME_,3456
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Message,10,0,q7,NULL,4640
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Form,10,1,q7,NULL,findAnswer,the zebra
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539140084,1d2e7b8527d4bded5615fa3d7db06e0a,Form,10,1,q7,NULL,_REACTION_TIME_,4417
+#
+# Results on Wednesday October 10 2018 03:03:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Message,6,0,z,NULL,7509
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,PictureAccept_AY,6,1,z,NULL,Please act out the sentence!,4,NULL,11553
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Form,7,1,q3,NULL,winningPlayer,
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Form,7,1,q3,NULL,_REACTION_TIME_,1488
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Message,8,0,q4,NULL,2455
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q4,NULL,brushAnswer,the horse
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q4,NULL,_REACTION_TIME_,3117
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Message,10,0,q7,NULL,6669
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Form,10,1,q7,NULL,findAnswer,the zebra
+1539140626,1d2e7b8527d4bded5615fa3d7db06e0a,Form,10,1,q7,NULL,_REACTION_TIME_,38458
+#
+# Results on Wednesday October 10 2018 03:16:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 3
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Message,7,0,z,NULL,1937
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,PictureAccept_AY,7,1,z,NULL,Please act out the sentence!,1,NULL,5027
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q3,NULL,winningPlayer,
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q3,NULL,_REACTION_TIME_,1574
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Message,9,0,q4,NULL,2199
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Form,9,1,q4,NULL,brushAnswer,
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Form,9,1,q4,NULL,_REACTION_TIME_,2971
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Message,11,0,q7,NULL,3936
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Form,11,1,q7,NULL,findAnswer,
+1539141376,1d2e7b8527d4bded5615fa3d7db06e0a,Form,11,1,q7,NULL,_REACTION_TIME_,1447
+#
+# Results on Wednesday October 10 2018 03:17:16 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 4
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539141436,1d2e7b8527d4bded5615fa3d7db06e0a,Message,7,0,z,NULL,2363
+1539141436,1d2e7b8527d4bded5615fa3d7db06e0a,PictureAccept_AY,7,1,z,NULL,Please act out the sentence!,1,NULL,3740
+#
+# Results on Wednesday October 10 2018 03:19:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 5
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Message,6,0,z,NULL,2130
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Question,6,1,z,NULL,How would you like to answer this question?,https://github.com/anthonyyacovone/testing/blob/master/comb.png?raw=true,NULL,6884
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Message,7,0,z,NULL,4078
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,PictureAccept_AY,7,1,z,NULL,Please act out the sentence!,3,NULL,18065
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q3,NULL,winningPlayer,
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Form,8,1,q3,NULL,_REACTION_TIME_,1895
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Message,9,0,q4,NULL,3011
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Form,9,1,q4,NULL,brushAnswer,
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Form,9,1,q4,NULL,_REACTION_TIME_,1397
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Message,11,0,q7,NULL,2383
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Form,11,1,q7,NULL,findAnswer,
+1539141547,1d2e7b8527d4bded5615fa3d7db06e0a,Form,11,1,q7,NULL,_REACTION_TIME_,15108
+#
+# Results on Wednesday October 10 2018 14:15:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Apprehension time.
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Message,7,0,start,NULL,2690
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Message,8,0,drag,NULL,2708
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,PictureAccept_AY,8,1,drag,NULL,Drag the objects to act out the sentence! Then CLICK what you USED to move forward!,3,NULL,11187
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Message,9,0,next,NULL,4376
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Message,10,0,answer1,NULL,2038
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Form,10,1,answer1,NULL,brushAnswer,the horse
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Form,10,1,answer1,NULL,_REACTION_TIME_,5577
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Message,12,0,answer2,NULL,2272
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Form,12,1,answer2,NULL,findAnswer,the zebra
+1539180935,7fff30b3b9edd356e3c501ebbd222c94,Form,12,1,answer2,NULL,_REACTION_TIME_,5056
+#
+# Results on Wednesday October 10 2018 14:51:24 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 7
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,7,0,ready,NULL,5951
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,8,1,normal,NULL,inviteAnswer,
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,8,1,normal,NULL,_REACTION_TIME_,1764
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,9,0,ready2,NULL,1170
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,10,1,medium,NULL,okAnswer,
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,10,1,medium,NULL,_REACTION_TIME_,1044
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,11,0,ready3,NULL,607
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,AcceptabilityJudgment,12,1,fast,NULL,undefined
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,AcceptabilityJudgment,12,1,fast,NULL,NULL,1,NULL,3067
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,13,0,start,NULL,1760
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,14,0,drag,NULL,2864
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,PictureAccept_AY,14,1,drag,NULL,Drag the objects to act out the sentence! Then CLICK what you USED to move forward!,2,NULL,2850
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Apprehension time.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,15,0,next,NULL,4479
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,16,0,answer1,NULL,2232
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,16,1,answer1,NULL,brushAnswer,the horse with the comb
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,16,1,answer1,NULL,_REACTION_TIME_,5856
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Message,18,0,answer2,NULL,3382
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,18,1,answer2,NULL,findAnswer,the zebra
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539183085,7fff30b3b9edd356e3c501ebbd222c94,Form,18,1,answer2,NULL,_REACTION_TIME_,5102
+#
+# Results on Wednesday October 10 2018 14:54:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 8
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,7,0,ready,NULL,1204
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,8,1,normal,NULL,inviteAnswer,
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,8,1,normal,NULL,_REACTION_TIME_,1122
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,9,0,ready2,NULL,569
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,10,1,medium,NULL,okAnswer,
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,10,1,medium,NULL,_REACTION_TIME_,892
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,11,0,ready3,NULL,594
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,AcceptabilityJudgment,12,1,fast,NULL,undefined
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,AcceptabilityJudgment,12,1,fast,NULL,NULL,1,NULL,941
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,13,0,start,NULL,974
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,14,0,drag,NULL,2027
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,PictureAccept_AY,14,1,drag,NULL,Drag the objects to act out the sentence! Then CLICK what you USED to move forward!,2,NULL,14753
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Apprehension time.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,15,0,next,NULL,1020
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,16,0,answer1,NULL,1960
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,16,1,answer1,NULL,brushAnswer,the horse
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,16,1,answer1,NULL,_REACTION_TIME_,5088
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Message,18,0,answer2,NULL,2041
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,18,1,answer2,NULL,findAnswer,the zebra
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539183248,7fff30b3b9edd356e3c501ebbd222c94,Form,18,1,answer2,NULL,_REACTION_TIME_,5415
+#
+# Results on Wednesday October 10 2018 16:24:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 9
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,7,0,ready,NULL,18776
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,8,1,normal,NULL,inviteAnswer,
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,8,1,normal,NULL,_REACTION_TIME_,8872
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,9,0,ready2,NULL,0
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,10,1,medium,NULL,okAnswer,ok
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,10,1,medium,NULL,_REACTION_TIME_,28342
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,11,0,ready3,NULL,2324
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,AcceptabilityJudgment,12,1,fast,NULL,undefined
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,AcceptabilityJudgment,12,1,fast,NULL,NULL,5,NULL,8936
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,13,0,start,NULL,13087
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence.
+#     Col. 9: Chosen picture (Starting from 1).
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,14,0,drag,NULL,5450
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,PictureAccept_AY,14,1,drag,NULL,Drag the objects to act out the sentence! Then CLICK what you USED to move forward!,3,NULL,16512
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Apprehension time.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,15,0,next,NULL,125740
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,16,0,answer1,NULL,4033
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,16,1,answer1,NULL,brushAnswer,the horse
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,16,1,answer1,NULL,_REACTION_TIME_,86614
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Message,18,0,answer2,NULL,5809
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,18,1,answer2,NULL,findAnswer,slkjdfgj
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1539188682,89fc20bfae087b3bdb7ae1d984487c0d,Form,18,1,answer2,NULL,_REACTION_TIME_,44712

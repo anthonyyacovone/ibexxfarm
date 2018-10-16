@@ -2,5 +2,11 @@
     transform:rotate(90deg);
 }
 
+.Form-continue-link {
+    text-decoration: none;
+    color: blue;
+    font-size: large;
+}
+
 
 

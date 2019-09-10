@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="../chunk_includes/jspsych.js"></script>
+    <script src="../chunk_includes/jspsych-audio-button-response.js"></script>
+    <script src="../chunk_includes/jspsych-instructions.js"></script>
+    <script src="../chunk_includes/jspsych-html-button-response.js"></script>
+    <script src="../chunk_includes/jspsych-audio-button-response.js"></script>
+
+    <link rel="stylesheet" href="../chunk_includes/jspsych.css"></link>
+  </head>
+  <body></body>
+  <script>
+
+
+  var instructions = {
+    type: 'instructions',
+    pages: [
+        'Welcome to the experiment. Click next to begin.',
+        'This is the second page of instructions.',
+        'This is the final page.'
+    ],
+    show_clickable_nav: true
+}
+
+  var plaus_procedure = {
+    timeline: [
+        {
+            type: 'html-button-response',
+            stimulus: jsPsych.timelineVariable('text'), 
+            choices: ['Yes!'],
+        },
+        { 
+            type: 'audio-button-response',
+            stimulus: jsPsych.timelineVariable('sound'), 
+            prompt: "Listen carefully!",
+            choices: ['Got it!'],
+            //response_ends_trial: false,
+            //trial_ends_after_audio: true
+        },
+        {
+            type: 'free-sort',
+            stimuli: jsPsych.timelineVariable('stim'), 
+            prompt: 'Recreate the sentence with the objects below!'
+        },
+    ],
+    timeline_variables: [
+        { text: 'Ready for the sentence?', stim: jsPsych.randomization.repeat(['img/horse_napkin.png', 'img/horse.png', 'img/napkin.png', 'img/girl_pinch.png'], 1), sound: 'https://github.com/anthonyyacovone/testing/blob/master/Hi_Instr_Brush_Comb_FAST.wav?raw=true' },
+        { text: 'Ready for the sentence?', stim: jsPsych.randomization.repeat(['img/frog.png', 'img/feather.png', 'img/child_pinch.png', 'img/frog_feather.png'], 1), sound: 'https://github.com/anthonyyacovone/testing/blob/master/Hi_Instr_Brush_Comb_FAST.wav?raw=true' },
+        //{ text: 'Ready for the sentence?', stim: jsPsych.randomization.repeat(['img/cat1.jpg', 'img/cat1.jpg', 'img/cat_toy.jpg', 'img/cat1.jpg'], 1), sound: 'https://github.com/anthonyyacovone/testing/blob/master/Hi_Instr_Brush_Comb_FAST.wav?raw=true' },
+        //{ text: 'Ready for the sentence?', stim: jsPsych.randomization.repeat(['img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg', 'img/cat_toy.jpg'], 1), sound: 'https://github.com/anthonyyacovone/testing/blob/master/Hi_Instr_Brush_Comb_FAST.wav?raw=true' }
+    ], 
+    randomize_order: true,
+}
+
+var audio = ['https://github.com/anthonyyacovone/testing/blob/master/Hi_Instr_Brush_Comb_FAST.wav?raw=true', 
+             'https://github.com/anthonyyacovone/testing/blob/master/Hi_Instr_Brush_Comb_FAST.wav?raw=true'];
+
+  jsPsych.init({
+    timeline: [instructions, plaus_procedure],
+    preload_audio: audio,
+    show_progress_bar: true,
+    use_webaudio: false,
+    on_finish: function(){jsPsych.data.displayData();}
+  });
+
+
+  </script>
+</html>
+
+<!-- 
+var audio_trial = {
+    type: 'audio-keyboard-response',
+    stimulus: function() { return 'audio/foo.mp3' }
+}
+
+// an array of paths to images that need to be loaded
+var images = ['img/file1.png'];
+var audio = ['audio/foo.mp3'];
+
+jsPsych.init({
+    timeline: [trial],
+    preload_audio: audio,
+    preload_images: images
+}); -->
+<!-- 
+var plaus_procedure = {
+    timeline: [
+        {
+            type: 'free-sort',
+            stimuli: jsPsych.timelineVariable('stim'),
+            prompt: 'Recreate the sentence with the objects below!\n'
+        },
+    ],
+    timeline_variables: [
+        { stim: ['img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg'] },
+        { stim: ['img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg'] },
+        { stim: ['img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg'] },
+        { stim: ['img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg', 'img/cat1.jpg'] }
+    ]
+} -->
